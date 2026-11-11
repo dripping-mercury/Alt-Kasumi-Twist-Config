@@ -1,0 +1,28 @@
+# Build output
+build/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Publish.ps1 output and downloaded tools
+Publish/
+
+# Packages and archives
+*.nupkg
+*.snupkg
+*.zip
+*.7z
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
